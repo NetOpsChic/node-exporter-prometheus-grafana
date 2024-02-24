@@ -7,7 +7,7 @@ A simple implmenetation of Node exporter, Prometheus and Grafana stack using Doc
 <p float="center">
   <img src="img/prometheus.png" width="200">
   <img src="img/grafana.png" width="200">
-  <img src="img/docker_compose.webp" height = "180" width="200">
+  <img src="img/docker_compose.webp" height = "180" width="400">
 </p>
 
 
