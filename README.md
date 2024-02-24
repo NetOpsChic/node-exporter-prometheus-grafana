@@ -5,7 +5,7 @@ A simple implmenetation of Node exporter, Prometheus and Grafana stack using Doc
 
 
 <p float="center">
-  <img src="img/final.png" width="500">
+  <img src="img/final.png" width="700">
 </p>
 
 
