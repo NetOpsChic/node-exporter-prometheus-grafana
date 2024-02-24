@@ -5,9 +5,7 @@ A simple implmenetation of Node exporter, Prometheus and Grafana stack using Doc
 
 
 <p float="center">
-  <img src="img/prometheus.png" width="200">
-  <img src="img/grafana.png" width="200">
-  <img src="img/docker_compose.webp" height = "180" width="400">
+  <img src="img/final.png" width="500">
 </p>
 
 
@@ -21,13 +19,13 @@ A simple implmenetation of Node exporter, Prometheus and Grafana stack using Doc
 Clone the project
 
 ```bash
-  git clone git@github.com:NetOpsChic/MonitoringStack.git
+  git clone git@github.com:NetOpsChic/node-exporter-prometheus-grafana.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd MonitoringStack
+  cd node-exporter-prometheus-grafana
 ```
 
 Start the docker engine
